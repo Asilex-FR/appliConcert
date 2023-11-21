@@ -76,3 +76,7 @@ boutonFiltrer.addEventListener("click", function () {
   genererevenements(evenementsFiltrees);
 });*/
 
+
+let inputEcriture = document.getElementById("inputEcriture")
+console.log(inputEcriture)
+
